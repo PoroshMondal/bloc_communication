@@ -26,6 +26,9 @@ Pros
 Cons
 - The UI may get clutter and hard to read with multiple BlocListener
 
+## Activate the specific communication
+To activate the specific Bloc/Cubit communication, just comment/uncomment desired code block from main.dart file
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
